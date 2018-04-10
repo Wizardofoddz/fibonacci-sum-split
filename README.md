@@ -2,7 +2,7 @@
 
 First, compile this example by running:
 
-go build
+`go build`
 
 Split up the fibonacci-sum work into several inputs that can be computed in parallel
 
